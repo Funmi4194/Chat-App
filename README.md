@@ -1,2 +1,2 @@
 # Chat-App
-Build magic
+Building a chat app in golang by Funmi
